@@ -3,8 +3,8 @@ import Footer from '../components/Footer'
 
 const SignUp = () => {
   return (
-    <div>
-        <div className='flex justify-center pt-5'>
+    <div className=' bg-[url("https://cdn.pixabay.com/photo/2023/02/08/08/50/frequency-wave-7776034_960_720.jpg")]'>
+        <div className='flex justify-center pt-5 ' >
             <img className="rounded-full "src="/Meddesign.png"/>
         </div>
         <div className='flex justify-center '> 
